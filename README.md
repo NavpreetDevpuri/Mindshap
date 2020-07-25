@@ -13,4 +13,4 @@ Some of your habits, phobias, likes/dislikes and in simple, your mindset as a wh
 
 So, now a question arises that What, when and how a incident must happen to a child to result into a fruitful mindset ?
 
-# Want to share something then just open a issue.
+# Want to share something then just open an issue.
