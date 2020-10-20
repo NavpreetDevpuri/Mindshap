@@ -1,5 +1,5 @@
 # Mindshap - Minds hap -> Mind shap
-Research to understand how minds are shaped to produce a guide for how to shape fruitful minds of childs. The definition of a **hap** is something happening or that happens by chance. Our mindset is not developed by chance. It shaped by every incident that happened to us.
+Research to understand how minds are shaped to produce a guide for how to shape the fruitful minds of children. The definition of hap is something happening or that happens by chance. Our mindset is not developed by chance. It shaped by every incident that happened to us.
 
 
 # Main idea
